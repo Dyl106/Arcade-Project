@@ -1,19 +1,8 @@
-## Getting Started
+# Arcade Game
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+I have 3 games:
+- NYT connections
+- TicTacToe
+- Trivia (GameShow)
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# Arcade-Project
+<img width="469" alt="image" src="https://github.com/Dyl106/Arcade-Project/assets/65685509/c8458994-1cb8-46b3-97b8-02cd2f775753">
